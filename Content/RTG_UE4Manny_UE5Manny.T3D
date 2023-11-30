@@ -1,0 +1,379 @@
+Begin Object Class=/Script/IKRig.IKRetargeter Name="RTG_UE4Manny_UE5Manny" ExportPath=/Script/IKRig.IKRetargeter'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny"'
+   Begin Object Class=/Script/IKRig.RetargetRootSettings Name="RootSettings" Archetype=/Script/IKRig.RetargetRootSettings'/Script/IKRig.Default__IKRetargeter:RootSettings' ExportPath=/Script/IKRig.RetargetRootSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RootSettings"'
+   End Object
+   Begin Object Class=/Script/IKRig.IKRetargetGlobalSettings Name="GlobalSettings" Archetype=/Script/IKRig.IKRetargetGlobalSettings'/Script/IKRig.Default__IKRetargeter:GlobalSettings' ExportPath=/Script/IKRig.IKRetargetGlobalSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:GlobalSettings"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_0" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_0"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_1" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_1"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_10" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_10"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_11" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_11"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_12" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_12"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_13" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_13"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_14" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_14"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_15" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_15"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_16" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_16"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_17" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_17"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_18" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_18"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_19" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_19"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_2" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_2"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_20" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_20"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_21" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_21"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_22" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_22"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_23" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_23"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_24" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_24"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_25" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_25"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_26" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_26"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_27" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_27"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_28" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_28"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_29" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_29"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_3" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_3"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_30" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_30"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_31" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_31"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_32" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_32"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_33" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_33"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_34" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_34"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_35" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_35"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_36" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_36"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_37" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_37"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_38" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_38"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_39" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_39"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_4" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_4"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_40" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_40"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_41" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_41"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_42" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_42"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_43" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_43"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_44" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_44"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_45" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_45"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_46" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_46"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_47" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_47"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_5" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_5"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_6" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_6"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_7" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_7"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_71" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_71"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_72" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_72"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_8" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_8"'
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_9" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_9"'
+   End Object
+   Begin Object Name="RootSettings" ExportPath=/Script/IKRig.RetargetRootSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RootSettings"'
+   End Object
+   Begin Object Name="GlobalSettings" ExportPath=/Script/IKRig.IKRetargetGlobalSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:GlobalSettings"'
+   End Object
+   Begin Object Name="RetargetChainSettings_0" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_0"'
+      SourceChain="Spine"
+      TargetChain="Spine"
+   End Object
+   Begin Object Name="RetargetChainSettings_1" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_1"'
+      SourceChain="LeftArm"
+      TargetChain="LeftArm"
+      Settings=(FK=(PoleVectorMatching=1.000000),IK=(bAffectedByIKWarping=False))
+   End Object
+   Begin Object Name="RetargetChainSettings_10" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_10"'
+      SourceChain="RightThumb"
+      TargetChain="RightThumb"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_11" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_11"'
+      SourceChain="RightMiddle"
+      TargetChain="RightMiddle"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_12" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_12"'
+      SourceChain="RightIndex"
+      TargetChain="RightIndex"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_13" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_13"'
+      SourceChain="RightLeg"
+      TargetChain="RightLeg"
+      Settings=(FK=(PoleVectorMatching=1.000000))
+   End Object
+   Begin Object Name="RetargetChainSettings_14" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_14"'
+      SourceChain="LeftLeg"
+      TargetChain="LeftLeg"
+      Settings=(FK=(PoleVectorMatching=1.000000))
+   End Object
+   Begin Object Name="RetargetChainSettings_15" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_15"'
+      SourceChain="LeftFootIK"
+      TargetChain="LeftFootIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_16" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_16"'
+      SourceChain="RightFootIK"
+      TargetChain="RightFootIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_17" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_17"'
+      SourceChain="LeftHandIK"
+      TargetChain="LeftHandIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_18" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_18"'
+      SourceChain="RightHandIK"
+      TargetChain="RightHandIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_19" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_19"'
+      SourceChain="HandGunIK"
+      TargetChain="HandGunIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_2" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_2"'
+      SourceChain="LeftPinky"
+      TargetChain="LeftPinky"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_20" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_20"'
+      SourceChain="FootRootIK"
+      TargetChain="FootRootIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_21" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_21"'
+      SourceChain="HandRootIK"
+      TargetChain="HandRootIK"
+      Settings=(FK=(TranslationMode=Absolute))
+   End Object
+   Begin Object Name="RetargetChainSettings_22" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_22"'
+      SourceChain="Root"
+      TargetChain="Root"
+      Settings=(FK=(TranslationMode=GloballyScaled))
+   End Object
+   Begin Object Name="RetargetChainSettings_23" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_23"'
+      SourceChain="Head"
+      TargetChain="Head"
+   End Object
+   Begin Object Name="RetargetChainSettings_24" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_24"'
+      SourceChain="LeftLowerArmTwist01"
+      TargetChain="LeftLowerArmTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_25" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_25"'
+      TargetChain="LeftLowerArmTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_26" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_26"'
+      SourceChain="LeftUpperArmTwist01"
+      TargetChain="LeftUpperArmTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_27" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_27"'
+      TargetChain="LeftUpperArmTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_28" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_28"'
+      TargetChain="RightLowerArmTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_29" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_29"'
+      SourceChain="RightLowerArmTwist01"
+      TargetChain="RightLowerArmTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_3" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_3"'
+      SourceChain="LeftRing"
+      TargetChain="LeftRing"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_30" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_30"'
+      SourceChain="RightUpperArmTwist01"
+      TargetChain="RightUpperArmTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_31" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_31"'
+      TargetChain="RightUpperArmTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_32" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_32"'
+      SourceChain="LeftThighTwist01"
+      TargetChain="LeftThighTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_33" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_33"'
+      TargetChain="LeftThighTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_34" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_34"'
+      SourceChain="LeftCalfTwist01"
+      TargetChain="LeftCalfTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_35" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_35"'
+      TargetChain="LeftCalfTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_36" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_36"'
+      SourceChain="RightCalfTwist01"
+      TargetChain="RightCalfTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_37" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_37"'
+      TargetChain="RightCalfTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_38" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_38"'
+      SourceChain="RightThighTwist01"
+      TargetChain="RightThighTwist01"
+   End Object
+   Begin Object Name="RetargetChainSettings_39" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_39"'
+      TargetChain="RightThighTwist02"
+   End Object
+   Begin Object Name="RetargetChainSettings_4" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_4"'
+      SourceChain="LeftThumb"
+      TargetChain="LeftThumb"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_40" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_40"'
+      TargetChain="LeftIndexMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_41" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_41"'
+      TargetChain="LeftMiddleMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_42" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_42"'
+      TargetChain="LeftPinkyMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_43" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_43"'
+      TargetChain="LeftRingMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_44" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_44"'
+      TargetChain="RightPinkyMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_45" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_45"'
+      TargetChain="RightRingMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_46" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_46"'
+      TargetChain="RightMiddleMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_47" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_47"'
+      TargetChain="RightIndexMetacarpal"
+   End Object
+   Begin Object Name="RetargetChainSettings_5" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_5"'
+      SourceChain="LeftMiddle"
+      TargetChain="LeftMiddle"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_6" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_6"'
+      SourceChain="LeftIndex"
+      TargetChain="LeftIndex"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_7" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_7"'
+      SourceChain="RightArm"
+      TargetChain="RightArm"
+      Settings=(FK=(PoleVectorMatching=1.000000),IK=(bAffectedByIKWarping=False))
+   End Object
+   Begin Object Name="RetargetChainSettings_71" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_71"'
+      SourceChain="LeftClavicle"
+      TargetChain="LeftClavicle"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_72" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_72"'
+      SourceChain="RightClavicle"
+      TargetChain="RightClavicle"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_8" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_8"'
+      SourceChain="RightPinky"
+      TargetChain="RightPinky"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   Begin Object Name="RetargetChainSettings_9" ExportPath=/Script/IKRig.RetargetChainSettings'"/Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny:RetargetChainSettings_9"'
+      SourceChain="RightRing"
+      TargetChain="RightRing"
+      Settings=(FK=(RotationMode=OneToOne))
+   End Object
+   SourceIKRigAsset="/Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin"
+   SourcePreviewMesh="/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin"
+   TargetIKRigAsset="/Game/Characters/Mannequins/Rigs/IK_Mannequin.IK_Mannequin"
+   TargetPreviewMesh="/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple"
+   TargetMeshOffset=(X=150.000000,Y=0.000000,Z=0.000000)
+   BoneDrawSize=0.489520
+   MeshesAskedToFixRootHeightFor=(/Script/Engine.SkeletalMesh'"/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin"',/Script/Engine.SkeletalMesh'"/Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny"',/Script/Engine.SkeletalMesh'"/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple"',/Script/Engine.SkeletalMesh'"/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple"')
+   ChainSettings(0)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_22"'
+   ChainSettings(1)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_0"'
+   ChainSettings(2)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_23"'
+   ChainSettings(3)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_71"'
+   ChainSettings(4)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_1"'
+   ChainSettings(5)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_25"'
+   ChainSettings(6)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_24"'
+   ChainSettings(7)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_40"'
+   ChainSettings(8)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_6"'
+   ChainSettings(9)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_41"'
+   ChainSettings(10)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_5"'
+   ChainSettings(11)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_4"'
+   ChainSettings(12)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_42"'
+   ChainSettings(13)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_2"'
+   ChainSettings(14)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_43"'
+   ChainSettings(15)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_3"'
+   ChainSettings(16)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_26"'
+   ChainSettings(17)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_27"'
+   ChainSettings(18)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_72"'
+   ChainSettings(19)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_7"'
+   ChainSettings(20)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_28"'
+   ChainSettings(21)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_29"'
+   ChainSettings(22)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_44"'
+   ChainSettings(23)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_8"'
+   ChainSettings(24)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_45"'
+   ChainSettings(25)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_9"'
+   ChainSettings(26)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_46"'
+   ChainSettings(27)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_11"'
+   ChainSettings(28)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_47"'
+   ChainSettings(29)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_12"'
+   ChainSettings(30)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_10"'
+   ChainSettings(31)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_30"'
+   ChainSettings(32)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_31"'
+   ChainSettings(33)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_13"'
+   ChainSettings(34)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_37"'
+   ChainSettings(35)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_36"'
+   ChainSettings(36)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_38"'
+   ChainSettings(37)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_39"'
+   ChainSettings(38)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_14"'
+   ChainSettings(39)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_35"'
+   ChainSettings(40)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_34"'
+   ChainSettings(41)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_32"'
+   ChainSettings(42)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_33"'
+   ChainSettings(43)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_20"'
+   ChainSettings(44)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_15"'
+   ChainSettings(45)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_16"'
+   ChainSettings(46)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_21"'
+   ChainSettings(47)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_19"'
+   ChainSettings(48)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_17"'
+   ChainSettings(49)=/Script/IKRig.RetargetChainSettings'"RetargetChainSettings_18"'
+   SourceRetargetPoses=(("Default Pose", ()),("UE4 Manny Retarget Pose", (BoneRotationOffsets=(("ik_hand_r", (X=-0.000000,Y=-0.000000,Z=-0.000000,W=1.000000)),("ik_hand_gun", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("ik_hand_root", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("ik_foot_root", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("foot_r", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("calf_r", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("thigh_r", (X=0.000000,Y=-0.000000,Z=-0.000000,W=1.000000)),("foot_l", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("calf_twist_01_l", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("calf_l", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("thigh_l", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("head", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("neck_01", (X=0.000000,Y=-0.000000,Z=0.000000,W=1.000000)),("upperarm_twist_01_r", (X=-0.000000,Y=-0.000000,Z=0.000000,W=1.000000)),("lowerarm_twist_01_r", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("thumb_03_r", (X=0.000000,Y=-0.000000,Z=-0.000000,W=1.000000)),("thumb_02_r", (X=0.000000,Y=0.000000,Z=-0.000000,W=1.000000)),("ring_03_r", (X=-0.004551,Y=-0.000477,Z=-0.087034,W=0.996195)),("ring_02_r", (X=-0.004551,Y=-0.000477,Z=-0.087034,W=0.996195)),("ring_01_r", (X=-0.004551,Y=-0.000477,Z=-0.087034,W=0.996195)),("pinky_03_r", (X=-0.005893,Y=-0.000569,Z=-0.086953,W=0.996195)),("pinky_02_r", (X=-0.005893,Y=-0.000569,Z=-0.086953,W=0.996195)),("pinky_01_r", (X=-0.005893,Y=-0.000569,Z=-0.086953,W=0.996195)),("middle_03_r", (X=0.006746,Y=0.000627,Z=-0.086890,W=0.996195)),("middle_02_r", (X=0.006746,Y=0.000627,Z=-0.086890,W=0.996195)),("middle_01_r", (X=0.006746,Y=0.000627,Z=-0.086890,W=0.996195)),("index_03_r", (X=-0.001211,Y=-0.001955,Z=-0.087124,W=0.996195)),("index_02_r", (X=-0.001211,Y=-0.001955,Z=-0.087124,W=0.996195)),("index_01_r", (X=-0.001211,Y=-0.001955,Z=-0.087124,W=0.996195)),("hand_r", (X=0.000000,Y=-0.000000,Z=0.000000,W=1.000000)),("lowerarm_r", (X=-0.010769,Y=-0.012674,Z=0.085554,W=0.996195)),("upperarm_r", (X=-0.016256,Y=0.040231,Z=-0.004442,W=0.999048)),("upperarm_twist_01_l", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("lowerarm_twist_01_l", (X=-0.000000,Y=0.000000,Z=-0.000000,W=1.000000)),("thumb_03_l", (X=0.000000,Y=0.000000,Z=-0.000000,W=1.000000)),("thumb_02_l", (X=0.000000,Y=-0.000000,Z=-0.000000,W=1.000000)),("ring_03_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("ring_02_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("ring_01_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("pinky_03_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("pinky_02_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("pinky_01_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("middle_03_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("middle_02_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("middle_01_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("index_03_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("index_02_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("index_01_l", (X=-0.005893,Y=-0.000575,Z=-0.086953,W=0.996195)),("hand_l", (X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("lowerarm_l", (X=-0.010769,Y=-0.012674,Z=0.085554,W=0.996195)),("upperarm_l", (X=-0.016256,Y=0.040232,Z=-0.004442,W=0.999048)),("spine_02", (X=-0.000000,Y=0.000000,Z=0.000000,W=1.000000)),("spine_01", (X=0.000000,Y=0.000000,Z=-0.000000,W=1.000000))))))
+   TargetRetargetPoses=(("Default Pose", ()),("Manny Retarget Pose", (BoneRotationOffsets=(("thumb_02_r", (X=-0.000577,Y=0.006089,Z=0.086941,W=0.996195)),("thumb_01_r", (X=-0.020814,Y=0.020962,Z=-0.032094,W=0.999048)),("index_03_r", (X=0.000000,Y=0.000000,Z=0.087156,W=0.996195)),("index_02_r", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("middle_03_r", (X=0.000000,Y=0.000000,Z=0.087156,W=0.996195)),("middle_02_r", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("ring_03_r", (X=0.000000,Y=0.000000,Z=0.087156,W=0.996195)),("ring_02_r", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("pinky_03_r", (X=0.000000,Y=0.000000,Z=0.087156,W=0.996195)),("pinky_02_r", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("pinky_01_r", (X=-0.010899,Y=-0.041482,Z=0.007942,W=0.999048)),("lowerarm_r", (X=0.000000,Y=0.000000,Z=-0.087156,W=0.996195)),("upperarm_r", (X=0.000938,Y=-0.043549,Z=-0.002290,W=0.999048)),("ring_03_l", (X=-0.000000,Y=-0.000000,Z=0.087156,W=0.996195)),("ring_02_l", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("pinky_03_l", (X=-0.000000,Y=-0.000000,Z=0.087156,W=0.996195)),("pinky_02_l", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("pinky_01_l", (X=-0.010899,Y=-0.041482,Z=0.007942,W=0.999048)),("thumb_01_l", (X=0.020596,Y=0.094589,Z=-0.010634,W=0.995247)),("middle_03_l", (X=-0.000000,Y=-0.000000,Z=0.087156,W=0.996195)),("middle_02_l", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("index_03_l", (X=-0.000000,Y=-0.000000,Z=0.087156,W=0.996195)),("index_02_l", (X=-0.000000,Y=-0.000000,Z=0.130526,W=0.991445)),("lowerarm_l", (X=0.000000,Y=0.000000,Z=-0.087156,W=0.996195)),("upperarm_l", (X=0.000938,Y=-0.043549,Z=-0.002290,W=0.999048))))),("Quinn Retarget Pose", (BoneRotationOffsets=(("thigh_l", (X=0.000000,Y=0.000000,Z=-0.000000,W=1.000000)),("index_03_r", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("index_02_r", (X=-0.000159,Y=-0.000023,Z=0.043619,W=0.999048)),("middle_03_r", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("middle_02_r", (X=0.000207,Y=-0.000053,Z=0.087154,W=0.996195)),("ring_03_r", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("ring_02_r", (X=0.000163,Y=-0.000126,Z=0.087154,W=0.996195)),("ring_01_r", (X=-0.013423,Y=-0.041500,Z=-0.000509,W=0.999048)),("pinky_03_r", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("pinky_02_r", (X=-0.000319,Y=-0.000047,Z=0.087155,W=0.996195)),("pinky_01_r", (X=-0.008870,Y=-0.042707,Z=0.000202,W=0.999048)),("lowerarm_r", (X=0.000000,Y=0.000000,Z=-0.087156,W=0.996195)),("upperarm_r", (X=0.000592,Y=-0.087013,Z=-0.004950,W=0.996195)),("ring_03_l", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("ring_02_l", (X=0.000007,Y=-0.000129,Z=0.130524,W=0.991445)),("ring_01_l", (X=-0.013423,Y=-0.041500,Z=-0.000509,W=0.999048)),("pinky_03_l", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("pinky_02_l", (X=-0.000319,Y=-0.000047,Z=0.087155,W=0.996195)),("pinky_01_l", (X=-0.017723,Y=-0.085334,Z=0.000404,W=0.996195)),("middle_03_l", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("middle_02_l", (X=0.000048,Y=-0.000054,Z=0.130524,W=0.991445)),("index_03_l", (X=-0.000128,Y=-0.000001,Z=0.087156,W=0.996195)),("index_02_l", (X=-0.000319,Y=-0.000047,Z=0.087155,W=0.996195)),("lowerarm_l", (X=0.000000,Y=0.000000,Z=-0.087156,W=0.996195)),("upperarm_l", (X=0.000592,Y=-0.087013,Z=-0.004950,W=0.996195))))))
+   CurrentSourceRetargetPose="UE4 Manny Retarget Pose"
+   CurrentTargetRetargetPose="Quinn Retarget Pose"
+End Object
